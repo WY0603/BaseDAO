@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<operate>
+	<find>com.accp.cdjj.crazy.electronic_pet.dao.impl.FindImpl</find>
+	<save>com.accp.cdjj.crazy.electronic_pet.dao.impl.SaveImpl</save>
+	<update>com.accp.cdjj.crazy.electronic_pet.dao.impl.UpdateImpl</update>
+	<delete>com.accp.cdjj.crazy.electronic_pet.dao.impl.DeleteImpl</delete>
+</operate>

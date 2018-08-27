@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DataBase>
+	<!-- 数据库类型 -->
+	<ServerType>SQL2005</ServerType>
+	<!-- 实际工厂位置 -->
+	<FactoryAddress>com.accp.cdjj.crazy.electronic_pet.dao.sql2005.SQL2005DB</FactoryAddress>
+	<!-- 数据库服务器位置 -->
+	<ServerAddress>localhost</ServerAddress>
+	<!-- 数据库服务器端口号 -->
+	<ServerPort>1433</ServerPort>
+	<!-- 数据库名称 -->
+	<ServerName>electronic_petDB</ServerName>
+	<!-- 数据库用户名 -->
+	<UserName>sa</UserName>
+	<!-- 数据库用户密码 -->
+	<UserPwd>sa</UserPwd>
+	<!-- 数据库连接实现类 -->
+	<Connection>com.accp.cdjj.crazy.electronic_pet.dao.impl.ConnectionImpl</Connection>
+	<!-- 数据库驱动 -->
+	<DriverType>JDBC</DriverType>
+	<!-- 直连配置 -->
+	<JDBC>
+		<Driver>
+			<SQL2005>com.microsoft.sqlserver.jdbc.SQLServerDriver</SQL2005>
+			<Oracle>oracle.jdbc.driver.OracleDriver</Oracle>
+			<MySql>org.gjt.mm.mysql.Driver</MySql>
+			<SQL2000>com.microsoft.sqlserver.jdbc.SQLServerDriver</SQL2000>
+		</Driver>
+		<!-- 数据库连接 -->
+		<ServerUrl>
+			<SQL2005>jdbc:sqlserver://</SQL2005>
+			<Oracle>oracle.jdbc.driver.OracleDriver</Oracle>
+			<MySql>org.gjt.mm.mysql.Driver</MySql>
+			<SQL2000>jdbc:microsoft:sqlserver://</SQL2000>
+		</ServerUrl>
+	</JDBC>
+	<!-- 桥连驱动 -->
+	<ODBC>
+		<Driver>
+		</Driver>
+		<ServerUrl>
+			
+		</ServerUrl>
+	</ODBC>
+	<JNDI>
+		<Driver>
+			<SQL2005>jdbc/electronic_petDB</SQL2005>
+		</Driver>
+		<ServerUrl></ServerUrl>
+	</JNDI>
+</DataBase>

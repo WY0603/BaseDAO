@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- 一个pojo类 -->
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>death</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>Death</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.Death</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>goods</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>Goods</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.Goods</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>hail_fellow</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>FirendsPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.FirendsPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>intellect_arrange</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>IntellectPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.IntellectPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>love_arrange</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>LovePojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.LovePojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>map</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>MapPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MapPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>master</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>MasterPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MasterPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>masterGoods</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>MasterGoods</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MasterGoods</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>matrimonial_agency</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>MatrimonialPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MatrimonialPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>messge</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>MessagePojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MessagePojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>pet</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>PetPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.PetPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>petArrange</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>PetArrangePojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.PetArrangePojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>power_arrange</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>PowerPojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.PowerPojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>state</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>StatePojo</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.StatePojo</pojopath>
+	</pojo>
+	<pojo>
+		<!-- 对应数据库表名 -->
+		<tablename>everyDayCount</tablename>
+		<!-- pojo类名称 -->
+		<pojoname>EveryDayCount</pojoname>
+		<!-- pojo类地址 -->
+		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.EveryDayCount</pojopath>
+	</pojo>
+</config>
