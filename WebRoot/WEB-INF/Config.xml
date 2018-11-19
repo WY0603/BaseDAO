@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <DataBase>
-	<!-- 数据库类型 -->
+	<!-- database type -->
 	<ServerType>SQL2005</ServerType>
-	<!-- 实际工厂位置 -->
+	<!-- factory location -->
 	<FactoryAddress>com.accp.cdjj.crazy.electronic_pet.dao.sql2005.SQL2005DB</FactoryAddress>
-	<!-- 数据库服务器位置 -->
+	<!-- database server location -->
 	<ServerAddress>localhost</ServerAddress>
-	<!-- 数据库服务器端口号 -->
+	<!-- database server port -->
 	<ServerPort>1433</ServerPort>
-	<!-- 数据库名称 -->
+	<!-- database name -->
 	<ServerName>electronic_petDB</ServerName>
-	<!-- 数据库用户名 -->
+	<!-- database username -->
 	<UserName>sa</UserName>
-	<!-- 数据库用户密码 -->
+	<!-- database password -->
 	<UserPwd>sa</UserPwd>
-	<!-- 数据库连接实现类 -->
+	<!-- database connection type -->
 	<Connection>com.accp.cdjj.crazy.electronic_pet.dao.impl.ConnectionImpl</Connection>
-	<!-- 数据库驱动 -->
+	<!-- database driver -->
 	<DriverType>JDBC</DriverType>
-	<!-- 直连配置 -->
+	<!-- direct connection set up -->
 	<JDBC>
 		<Driver>
 			<SQL2005>com.microsoft.sqlserver.jdbc.SQLServerDriver</SQL2005>
@@ -26,7 +26,7 @@
 			<MySql>org.gjt.mm.mysql.Driver</MySql>
 			<SQL2000>com.microsoft.sqlserver.jdbc.SQLServerDriver</SQL2000>
 		</Driver>
-		<!-- 数据库连接 -->
+		<!-- database connection -->
 		<ServerUrl>
 			<SQL2005>jdbc:sqlserver://</SQL2005>
 			<Oracle>oracle.jdbc.driver.OracleDriver</Oracle>
@@ -34,7 +34,7 @@
 			<SQL2000>jdbc:microsoft:sqlserver://</SQL2000>
 		</ServerUrl>
 	</JDBC>
-	<!-- 桥连驱动 -->
+	<!-- brigde connection -->
 	<ODBC>
 		<Driver>
 		</Driver>
