@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-	<!-- 一个pojo类 -->
+	<!-- one pojo class -->
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>death</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>Death</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.Death</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>goods</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>Goods</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.Goods</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>hail_fellow</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>FirendsPojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.FirendsPojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>intellect_arrange</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>IntellectPojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.IntellectPojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>love_arrange</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>LovePojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.LovePojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>map</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>MapPojo</pojoname>
 		<!-- pojo类地址 -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MapPojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>master</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>MasterPojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MasterPojo</pojopath>
 	</pojo>
 	<pojo>
 		<!-- 对应数据库表名 -->
 		<tablename>masterGoods</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>MasterGoods</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MasterGoods</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>matrimonial_agency</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>MatrimonialPojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MatrimonialPojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>messge</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>MessagePojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.MessagePojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>pet</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>PetPojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.PetPojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>petArrange</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>PetArrangePojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.PetArrangePojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>power_arrange</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>PowerPojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.PowerPojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>state</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>StatePojo</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.StatePojo</pojopath>
 	</pojo>
 	<pojo>
-		<!-- 对应数据库表名 -->
+		<!-- reflect database table name -->
 		<tablename>everyDayCount</tablename>
-		<!-- pojo类名称 -->
+		<!-- pojo class name -->
 		<pojoname>EveryDayCount</pojoname>
-		<!-- pojo类地址 -->
+		<!-- pojo location -->
 		<pojopath>com.accp.cdjj.crazy.electronic_pet.bean.EveryDayCount</pojopath>
 	</pojo>
 </config>
