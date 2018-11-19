@@ -9,16 +9,16 @@ import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
 
 /**
- * 读取POJO配置XML
- * @author IBM
+ * access POJO configuration XML
+ * @author wangyao
  *
  */
 public class ReadPojo {
-	//pojo类名
+	//pojo class name
 	public static String pojoName;
-	//对应表名
+	//reflection table name
 	public static String talbeName;
-	//临时存放表名
+	//tempory store talbe
 	public static String temp;
 	
 	public ReadPojo(){
@@ -26,15 +26,15 @@ public class ReadPojo {
 	}
 	
 	/**
-	 * 读取POJO配置XML
+	 * access POJO configuration XML
 	 *
 	 */
 	public static String read(String pojoPath){
 		
 		try{
-			//创建File实例
+			//create File object
 			File f = new File("PojoConfig.xml");
-			//获取 DocumentBuilderFactory 的新实例。
+			//get DocumentBuilderFactory new object。
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			//使用当前配置的参数创建一个新的 DocumentBuilder 实例
 			DocumentBuilder db = dbFactory.newDocumentBuilder();
